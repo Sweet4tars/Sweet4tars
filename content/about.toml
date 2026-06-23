@@ -3,11 +3,8 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Multimodal Large Models",
-  "Fine-grained Cross-modal Alignment",
-  "Image-Text Retrieval",
-  "Knowledge Graph Link Prediction",
-  "AI Algorithm Deployment on Domestic Accelerators"
+  "Cross-modal Alignment",
+  "Representation Learning"
 ]
 
 [[sections]]

@@ -3,7 +3,7 @@
 # 毛新宇 / Xinyu Mao
 
 **PhD Student @ University of Electronic Science and Technology of China**  
-**Research Interests:** Cross-modal Alignment · Representation Learning · Image-Text Retrieval · Knowledge Graph Reasoning
+**Research Interests:** Cross-modal Alignment · Representation Learning
 
 [![Homepage](https://img.shields.io/badge/Homepage-sweet4tars.github.io-blue?style=flat-square&logo=githubpages)](https://sweet4tars.github.io/Sweet4tars/)
 [![Email](https://img.shields.io/badge/Email-maoxy%40std.uestc.edu.cn-red?style=flat-square&logo=gmail)](mailto:maoxy@std.uestc.edu.cn)
@@ -13,16 +13,16 @@
 
 ## 👋 About Me
 
-I am currently a PhD student in the School of Computer Science and Engineering at the University of Electronic Science and Technology of China. My research focuses on multimodal large models, fine-grained cross-modal alignment, image-text retrieval, representation learning, and knowledge graph link prediction.
+I am currently a PhD student in the School of Computer Science and Engineering at the University of Electronic Science and Technology of China. My research focuses on cross-modal alignment and representation learning.
+
+Cross-modal alignment and representation learning form a cornerstone of general intelligence — once machines bridge the gap between vision and language to understand the world as humans do, the boundaries of human-machine collaboration and scientific discovery will be fundamentally redrawn.
 
 I am also interested in practical AI system deployment, especially model training, evaluation, inference deployment, and algorithm migration on domestic AI computing platforms such as Huawei Ascend.
 
 ## 🔬 Research
 
-- **Fine-grained cross-modal alignment:** improving image-text retrieval under sparse caption supervision by preserving semantically important visual regions.
-- **Representation learning:** learning compact and discriminative visual/semantic representations for retrieval and reasoning tasks.
-- **Knowledge graph reasoning:** modeling complex relations through geometric and embedding-based methods for link prediction.
-- **AI engineering:** deploying and validating vision, semantic extraction, and reasoning algorithms on real computing platforms.
+- **Cross-modal alignment:** aligning vision and language so that semantically important regions survive even under sparse supervision.
+- **Representation learning:** learning compact, discriminative representations that generalize across perception and reasoning.
 
 ## 📚 Publications
 
