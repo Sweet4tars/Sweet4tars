@@ -6,7 +6,7 @@
 **Research Interests:** Cross-modal Alignment · Representation Learning · Image-Text Retrieval · Knowledge Graph Reasoning
 
 [![Homepage](https://img.shields.io/badge/Homepage-sweet4tars.github.io-blue?style=flat-square&logo=githubpages)](https://sweet4tars.github.io/Sweet4tars/)
-[![Email](https://img.shields.io/badge/Email-1257597709%40qq.com-red?style=flat-square&logo=gmail)](mailto:1257597709@qq.com)
+[![Email](https://img.shields.io/badge/Email-maoxy%40std.uestc.edu.cn-red?style=flat-square&logo=gmail)](mailto:maoxy@std.uestc.edu.cn)
 [![CV](https://img.shields.io/badge/CV-PDF-green?style=flat-square&logo=adobeacrobatreader)](./public/files/resume_maoxinyu_260522.pdf)
 
 </div>
@@ -61,7 +61,7 @@ I am also interested in practical AI system deployment, especially model trainin
 ## 🔗 Links
 
 - Personal Homepage: <https://sweet4tars.github.io/Sweet4tars/>
-- Email: <1257597709@qq.com>
+- Email: <maoxy@std.uestc.edu.cn>
 
 ---
 
