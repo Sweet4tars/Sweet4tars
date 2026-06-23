@@ -1,0 +1,48 @@
+[site]
+title = "毛新宇"
+description = "毛新宇，电子科技大学计算机科学与工程学院博士生，研究方向包括多模态大模型、跨模态对齐、图文匹配与知识图谱链接预测。"
+last_updated = "2026年6月23日"
+
+[author]
+name = "毛新宇"
+title = "博士生"
+institution = "电子科技大学"
+avatar = "/bio.jpg"
+
+[social]
+email = "1257597709@qq.com"
+location = "成都，中国"
+location_details = [
+  "电子科技大学计算机科学与工程学院，",
+  "四川省成都市"
+]
+
+[[navigation]]
+title = "关于我"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "论文"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "项目"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "获奖"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "简历"
+type = "page"
+target = "cv"
+href = "/cv"

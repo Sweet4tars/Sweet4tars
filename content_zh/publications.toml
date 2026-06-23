@@ -1,0 +1,4 @@
+type = "publication"
+title = "论文"
+description = "多模态学习与知识图谱表示学习相关研究成果。"
+source = "publications.bib"

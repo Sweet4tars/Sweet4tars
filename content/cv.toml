@@ -1,0 +1,4 @@
+type = "text"
+title = "CV"
+description = "A concise version of my academic CV."
+source = "cv.md"

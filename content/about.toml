@@ -1,0 +1,30 @@
+type = "about"
+title = "About"
+
+[profile]
+research_interests = [
+  "Multimodal Large Models",
+  "Fine-grained Cross-modal Alignment",
+  "Image-Text Retrieval",
+  "Knowledge Graph Link Prediction",
+  "AI Algorithm Deployment on Domestic Accelerators"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "About"
+
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "Selected Publications"
+filter = "selected"
+limit = 5
+
+[[sections]]
+id = "news"
+type = "list"
+title = "News"
+source = "news.toml"

@@ -1,0 +1,66 @@
+[site]
+title = "Xinyu Mao"
+description = "Personal academic homepage of Xinyu Mao, PhD student at the University of Electronic Science and Technology of China."
+favicon = "/favicon.svg"
+last_updated = "June 23, 2026"
+
+[author]
+name = "Xinyu Mao"
+title = "PhD Student"
+institution = "University of Electronic Science and Technology of China"
+avatar = "/bio.jpg"
+
+[social]
+email = "1257597709@qq.com"
+location = "Chengdu, China"
+location_details = [
+  "School of Computer Science and Engineering,",
+  "University of Electronic Science and Technology of China, Chengdu, China"
+]
+
+[features]
+enable_likes = true
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["zh", "en"]
+default_locale = "zh"
+mode = "auto"
+fixed_locale = "zh"
+persist = true
+switcher = true
+
+[i18n.labels]
+zh = "中文"
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Projects"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

@@ -1,0 +1,33 @@
+type = "card"
+title = "获奖荣誉"
+description = "代表性荣誉与奖项。"
+
+[[items]]
+title = "全国金奖"
+subtitle = "中国国际大学生创新创业大赛"
+date = "2025"
+content = "获得中国国际大学生创新创业大赛（2025）全国金奖。"
+
+[[items]]
+title = "擂主（特等奖第一名）"
+subtitle = "第十九届“挑战杯”中国青年科技创新“揭榜挂帅”擂台赛"
+date = "2025"
+content = "获得擂主称号，即该赛道特等奖第一名。"
+
+[[items]]
+title = "全国金奖"
+subtitle = "中国国际大学生创新创业大赛"
+date = "2024"
+content = "获得中国国际大学生创新创业大赛（2024）全国金奖。"
+
+[[items]]
+title = "全国银奖"
+subtitle = "第九届中国国际“互联网+”大学生创新创业大赛"
+date = "2023"
+content = "获得全国银奖。"
+
+[[items]]
+title = "华为智能基座奖学金"
+subtitle = "校级奖学金"
+date = "2022 & 2023"
+content = "连续两年获得华为智能基座奖学金，全校每年仅 25 人。"

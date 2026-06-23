@@ -1,0 +1,33 @@
+type = "card"
+title = "Awards"
+description = "Selected honors and awards."
+
+[[items]]
+title = "National Gold Award"
+subtitle = "China International College Students' Innovation Competition"
+date = "2025"
+content = "National Gold Award in the 2025 competition."
+
+[[items]]
+title = "Top Award / First Place"
+subtitle = "19th Challenge Cup Youth Technology Innovation Competition"
+date = "2025"
+content = "Winner of the challenge-based track, equivalent to the top special prize."
+
+[[items]]
+title = "National Gold Award"
+subtitle = "China International College Students' Innovation Competition"
+date = "2024"
+content = "National Gold Award in the 2024 competition."
+
+[[items]]
+title = "National Silver Award"
+subtitle = "9th China International Internet+ College Students Innovation and Entrepreneurship Competition"
+date = "2023"
+content = "National Silver Award."
+
+[[items]]
+title = "Huawei Intelligent Foundation Scholarship"
+subtitle = "University-wide scholarship"
+date = "2022 & 2023"
+content = "Received the Huawei Intelligent Foundation Scholarship for two consecutive years; only 25 recipients across the university each year."

@@ -1,0 +1,4 @@
+type = "publication"
+title = "Publications"
+description = "Research works on multimodal learning and knowledge graph representation."
+source = "publications.bib"

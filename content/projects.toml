@@ -1,0 +1,24 @@
+type = "card"
+title = "Projects"
+description = "Selected research and engineering projects."
+
+[[items]]
+title = "General AI Computing Chip for Reasoning"
+subtitle = "MIIT High-quality Major Project · Core Member"
+date = "2024.06 - Present"
+content = "Completed inference verification for target recognition and intent reasoning algorithms on domestic AI chips. Responsible for porting target recognition and semantic extraction models to the Huawei Ascend platform, keeping accuracy loss within 0.1%."
+tags = ["AI Chip", "Huawei Ascend", "Model Deployment", "Inference Verification"]
+
+[[items]]
+title = "Business-service LLM on Domestic Computing Power"
+subtitle = "Sichuan Provincial Science and Technology Project · Core Member"
+date = "2025.01 - Present"
+content = "Worked on deploying a business-service large language model on domestic accelerators and integrating knowledge graph reasoning for explainability. Improved knowledge graph reasoning by proposing a convolution-enhanced graph embedding method, achieving a 2% performance gain over traditional embedding models."
+tags = ["Large Language Model", "Knowledge Graph", "Explainable Reasoning", "Domestic Computing"]
+
+[[items]]
+title = "openGauss Compatibility with MySQL 5.7 Operators"
+subtitle = "Huawei Kunpeng Open-source Project · Core Member"
+date = "2022.05 - 2022.09"
+content = "Implemented MySQL 5.7 operator compatibility in openGauss, focusing on the XOR operator. The contribution was merged into openGauss 5.0.0 and released, and I became an openGauss community contributor."
+tags = ["openGauss", "MySQL", "Database", "Open Source"]
