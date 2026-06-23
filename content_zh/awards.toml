@@ -15,6 +15,12 @@ date = "2025"
 content = "获得擂主称号，即该赛道特等奖第一名。"
 
 [[items]]
+title = "四川省金奖"
+subtitle = "昇腾 AI 创新大赛"
+date = "2024 & 2025"
+content = "连续两年获得昇腾 AI 创新大赛四川省金奖。"
+
+[[items]]
 title = "全国金奖"
 subtitle = "中国国际大学生创新创业大赛"
 date = "2024"

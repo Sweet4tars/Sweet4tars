@@ -6,7 +6,7 @@ description = "Selected research and engineering projects."
 title = "General AI Computing Chip for Reasoning"
 subtitle = "MIIT High-quality Major Project · Core Member"
 date = "2024.06 - Present"
-content = "Completed inference verification for target recognition and intent reasoning algorithms on domestic AI chips. Responsible for porting target recognition and semantic extraction models to the Huawei Ascend platform, keeping accuracy loss within 0.1%."
+content = "Completed inference verification for target recognition and intent reasoning algorithms on domestic AI chips. Responsible for porting target recognition and semantic extraction models to the Huawei Ascend platform, keeping accuracy loss within 0.001%."
 tags = ["AI Chip", "Huawei Ascend", "Model Deployment", "Inference Verification"]
 
 [[items]]

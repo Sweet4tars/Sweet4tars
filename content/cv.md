@@ -16,13 +16,13 @@
 ICML 2026 (CCF-A), First Author.  
 - Motivation: sparse captions under-describe complex visual regions, causing patch redundancy, semantic ambiguity, and similarity dilution.
 - Method: MLLM semantic anchor, dual-granularity semantic calibration, and salience-guided metric aggregation.
-- Result: improved fine-grained image-text alignment and surpassed SOTA models on Flickr30K and MS-COCO.
+- Result: improved fine-grained image-text alignment, achieving about 17.2% average gain over the SOTA method D2S-VSE on main image-text retrieval metrics.
 
 **A Dual Quaternion Embedding Method of Link Prediction based on Orthogonalization and Rotation**  
 IJCNN 2025 (CCF-C), First Author.  
 - Motivation: rotational relations and orthogonal constraints are difficult to model jointly in knowledge graph link prediction.
 - Method: dual quaternion representation with orthogonalization and rotation transformations.
-- Result: improved complex relation representation and achieved SOTA performance.
+- Result: validated the orthogonalization mechanism, improving main link-prediction tasks by 0.8% and reducing 50% of redundant translation/rotation modeling.
 
 ## Patents
 
@@ -33,7 +33,7 @@ IJCNN 2025 (CCF-C), First Author.
 
 **General AI Computing Chip for Reasoning**, MIIT High-quality Major Project, Core Member, *2024.06 - Present*
 - Completed inference verification for target recognition and intent reasoning algorithms on domestic AI chips.
-- Ported target recognition and semantic extraction models to Huawei Ascend with accuracy loss within 0.1%.
+- Ported target recognition and semantic extraction models to Huawei Ascend with accuracy loss within 0.001%.
 
 **Business-service LLM on Domestic Computing Power**, Sichuan Provincial Science and Technology Project, Core Member, *2025.01 - Present*
 - Deployed a business-service large language model on domestic accelerators and integrated knowledge graph reasoning.
@@ -46,5 +46,7 @@ IJCNN 2025 (CCF-C), First Author.
 ## Skills
 
 - **Research:** multimodal learning, image-text retrieval, knowledge graph embedding, link prediction.
-- **Engineering:** Git, Linux, Docker, model porting, AI inference verification.
-- **AI coding:** Codex, Claude Code, and CLI-based agentic development workflows.
+- **Algorithm Development:** Python and PyTorch; model training, fine-tuning, evaluation, and inference deployment.
+- **Engineering Tools:** Git, Linux, Docker; team collaboration, code standards, and code review.
+- **AI Coding:** Codex, Claude Code, and CLI-based agentic workflows for implementation, debugging, and documentation.
+- **Language:** English CET-6 543; reads English papers, technical docs, and open-source projects.

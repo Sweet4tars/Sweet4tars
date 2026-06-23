@@ -15,6 +15,12 @@ date = "2025"
 content = "Winner of the challenge-based track, equivalent to the top special prize."
 
 [[items]]
+title = "Sichuan Gold Award"
+subtitle = "Ascend AI Innovation Competition"
+date = "2024 & 2025"
+content = "Won the Sichuan Gold Award in the Ascend AI Innovation Competition for two consecutive years."
+
+[[items]]
 title = "National Gold Award"
 subtitle = "China International College Students' Innovation Competition"
 date = "2024"
