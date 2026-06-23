@@ -20,20 +20,20 @@ python3 -m http.server 4173 -d out
 
 ## GitHub Pages 部署
 
-推荐仓库名：`PRISM`，GitHub 用户名按当前简历链接使用 `Sweet4tars`。
+推荐仓库名：`Sweet4tars`，GitHub 用户名按当前简历链接使用 `Sweet4tars`。
 
-1. 在 GitHub 创建仓库：`Sweet4tars/PRISM`
-2. 将当前 `/home/maoxy/code/private/PRISM` 推送到该仓库的 `main` 分支。
+1. 在 GitHub 创建仓库：`Sweet4tars/Sweet4tars`
+2. 将当前 `/home/maoxy/code/private/Sweet4tars` 推送到该仓库的 `main` 分支。
 3. 在 GitHub 仓库设置中启用 Pages：`Settings -> Pages -> Source: GitHub Actions`。
 4. 推送后 `.github/workflows/deploy.yml` 会自动构建并发布。
 
 上线地址：
 
 ```text
-https://sweet4tars.github.io/PRISM/
+https://sweet4tars.github.io/Sweet4tars/
 ```
 
-如果仓库名不是 `PRISM`，需要同步修改：
+如果仓库名不是 `Sweet4tars`，需要同步修改：
 
 - 简历中的主页链接
-- `.github/workflows/deploy.yml` 里的 `NEXT_PUBLIC_BASE_PATH=/PRISM`
+- `.github/workflows/deploy.yml` 里的 `NEXT_PUBLIC_BASE_PATH=/Sweet4tars`

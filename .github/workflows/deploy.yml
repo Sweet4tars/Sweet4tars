@@ -28,7 +28,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Build static site
-        run: NEXT_PUBLIC_BASE_PATH=/PRISM npm run build
+        run: NEXT_PUBLIC_BASE_PATH=/Sweet4tars npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
