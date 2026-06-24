@@ -24,7 +24,7 @@ export async function generateMetadata(): Promise<Metadata> {
     creator: config.author.name,
     publisher: config.author.name,
     icons: {
-      icon: config.site.favicon,
+      icon: `${process.env.NEXT_PUBLIC_BASE_PATH || ''}${config.site.favicon}`,
     },
     openGraph: {
       type: 'website',
