@@ -131,7 +131,7 @@ export default function RootLayout({
   return (
     <html lang={runtimeI18n.defaultLocale} className="scroll-smooth" suppressHydrationWarning>
       <head>
-        <link rel="icon" href={config.site.favicon} type="image/svg+xml" />
+        <link rel="icon" href={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}${config.site.favicon}`} type="image/svg+xml" />
         <script
           dangerouslySetInnerHTML={{
             __html: `
