@@ -1,4 +1,4 @@
 type = "publication"
 title = "Publications"
-description = "Research works on multimodal learning and knowledge graph representation."
+description = "Research works on multimodal learning and representation learning."
 source = "publications.bib"
