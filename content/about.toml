@@ -3,8 +3,9 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Cross-modal Alignment",
-  "Representation Learning"
+  "Cross-modal Alignment & Representation Learning",
+  "Vision-Language Models (VLM)",
+  "Agentic Search"
 ]
 
 [[sections]]

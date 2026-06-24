@@ -3,7 +3,7 @@
 # 毛新宇 / Xinyu Mao
 
 **PhD Student @ University of Electronic Science and Technology of China**  
-**Research Interests:** Cross-modal Alignment · Representation Learning
+**Research Interests:** Cross-modal Alignment & Representation Learning · Vision-Language Models · Agentic Search
 
 [![Homepage](https://img.shields.io/badge/Homepage-sweet4tars.github.io-blue?style=flat-square&logo=githubpages)](https://sweet4tars.github.io/Sweet4tars/)
 [![Email](https://img.shields.io/badge/Email-maoxy%40std.uestc.edu.cn-red?style=flat-square&logo=gmail)](mailto:maoxy@std.uestc.edu.cn)
@@ -13,16 +13,17 @@
 
 ## 👋 About Me
 
-I am currently a PhD student in the School of Computer Science and Engineering at the University of Electronic Science and Technology of China. My research focuses on cross-modal alignment and representation learning.
+I am currently a PhD student in the School of Computer Science and Engineering at the University of Electronic Science and Technology of China. My research focuses on cross-modal alignment & representation learning, vision-language models, and agentic search.
 
-Cross-modal alignment and representation learning form a cornerstone of general intelligence — once machines bridge the gap between vision and language to understand the world as humans do, the boundaries of human-machine collaboration and scientific discovery will be fundamentally redrawn.
+From bridging the gap between vision and language to autonomous agents that retrieve and reason, cross-modal alignment, vision-language models, and agentic search together pave the way toward general intelligence, reshaping the future of human-machine collaboration and scientific discovery.
 
 I am also interested in practical AI system deployment, especially model training, evaluation, inference deployment, and algorithm migration on domestic AI computing platforms such as Huawei Ascend.
 
 ## 🔬 Research
 
-- **Cross-modal alignment:** aligning vision and language so that semantically important regions survive even under sparse supervision.
-- **Representation learning:** learning compact, discriminative representations that generalize across perception and reasoning.
+- **Cross-modal alignment & representation learning:** aligning vision and language into unified, compact representations that generalize across perception and reasoning.
+- **Vision-language models (VLM):** building multimodal models that jointly perceive, understand, and reason over visual and textual inputs.
+- **Agentic search:** empowering agents to autonomously retrieve, reason over, and act on information to solve complex tasks.
 
 ## 📚 Publications
 

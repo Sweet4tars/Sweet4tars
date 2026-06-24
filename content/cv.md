@@ -3,7 +3,7 @@
 ## Education
 
 **University of Electronic Science and Technology of China**, PhD in Computer Science and Technology, *2024.06 - 2029.06*
-- Research: multimodal large models, cross-modal alignment, image-text retrieval, representation learning.
+- Research: cross-modal alignment & representation learning, vision-language models, agentic search.
 - Engineering: large model fine-tuning and algorithm porting on Huawei Ascend domestic accelerators.
 
 **University of Electronic Science and Technology of China**, B.Eng. in Artificial Intelligence, *2020.09 - 2024.06*

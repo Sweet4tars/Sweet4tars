@@ -3,8 +3,9 @@ title = "关于我"
 
 [profile]
 research_interests = [
-  "跨模态对齐",
-  "表征学习"
+  "跨模态对齐与表征学习",
+  "视觉语言模型（VLM）",
+  "智能体搜索（Agent Search）"
 ]
 
 [[sections]]
