@@ -1,5 +1,6 @@
 'use client';
 
+import { usePathname } from 'next/navigation';
 import { useLocaleStore } from '@/lib/stores/localeStore';
 import { useMessages } from '@/lib/i18n/useMessages';
 
@@ -12,6 +13,8 @@ interface FooterProps {
 export default function Footer({ lastUpdated, lastUpdatedByLocale, defaultLocale = 'en' }: FooterProps) {
   const locale = useLocaleStore((state) => state.locale);
   const messages = useMessages();
+  const pathname = usePathname();
+  const hideMotto = pathname?.startsWith('/publications') ?? false;
 
   const resolvedLastUpdated =
     lastUpdatedByLocale?.[locale] ||
@@ -22,6 +25,11 @@ export default function Footer({ lastUpdated, lastUpdatedByLocale, defaultLocale
   return (
     <footer className="border-t border-neutral-200/50 bg-neutral-50/50 dark:bg-neutral-900/50 dark:border-neutral-700/50">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        {!hideMotto && (
+          <p className="text-center text-sm italic text-neutral-600 dark:text-neutral-400 mb-4">
+            {messages.footer.motto}
+          </p>
+        )}
         <div className="flex flex-col sm:flex-row justify-between items-center gap-2">
           <p className="text-xs text-neutral-500">
             {messages.footer.lastUpdated}: {resolvedLastUpdated}

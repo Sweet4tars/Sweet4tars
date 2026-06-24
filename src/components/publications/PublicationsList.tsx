@@ -72,6 +72,11 @@ export default function PublicationsList({ config, publications, embedded = fals
                         {config.description}
                     </p>
                 )}
+                {!embedded && (
+                    <blockquote className="mt-4 border-l-4 border-accent pl-4 italic text-neutral-700 dark:text-neutral-300">
+                        {messages.footer.motto}
+                    </blockquote>
+                )}
             </div>
 
             {/* Search and Filter Controls */}
